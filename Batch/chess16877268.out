@@ -1,0 +1,86 @@
+White's turn to move
+--------------------
+8| r n b q k b n r 
+7| p p p p p p p p 
+6| - - - - - - - - 
+5| - - - - - - - - 
+4| - - - - - - - - 
+3| - - - - - - - - 
+2| P P P P P P P P 
+1| R N B Q K B N R 
+   ---------------
+   a b c d e f g h 
+--------------------
+---------------------------------
+Nodes: 21 Depth 1: 0.000297985s
+Nodes: 421 Depth 2: 0.00386899s
+Nodes: 3140 Depth 3: 0.0578823s
+Nodes: 11474 Depth 4: 0.153171s
+Nodes: 48648 Depth 5: 0.355165s
+---------------------------------
+Nodes: 911150 Depth 6: 5.11079s
+Size of Tree: 7.2892mb 
+---------------------------------
+Cur Score: 295
+AI suggested moves: 
+8| r n b q k b n r 
+7| p p p p p p p p 
+6| - - - - - - - - 
+5| - - - - - - - - 
+4| - - - - - - P - 
+3| - - - - - - - - 
+2| P P P P P P - P 
+1| R N B Q K B N R 
+   ---------------
+   a b c d e f g h 
+8| r n b q k b n r 
+7| p p p p p p p - 
+6| - - - - - - - - 
+5| - - - - - - - p 
+4| - - - - - - P - 
+3| - - - - - - - - 
+2| P P P P P P - P 
+1| R N B Q K B N R 
+   ---------------
+   a b c d e f g h 
+8| r n b q k b n r 
+7| p p p p p p p - 
+6| - - - - - - - - 
+5| - - - - - - - p 
+4| - - - - - - P - 
+3| N - - - - - - - 
+2| P P P P P P - P 
+1| R - B Q K B N R 
+   ---------------
+   a b c d e f g h 
+8| r - b q k b n r 
+7| p p p p p p p - 
+6| n - - - - - - - 
+5| - - - - - - - p 
+4| - - - - - - P - 
+3| N - - - - - - - 
+2| P P P P P P - P 
+1| R - B Q K B N R 
+   ---------------
+   a b c d e f g h 
+8| r - b q k b n r 
+7| p p p p p p p - 
+6| n - - - - - - - 
+5| - - - - - - - P 
+4| - - - - - - - - 
+3| N - - - - - - - 
+2| P P P P P P - P 
+1| R - B Q K B N R 
+   ---------------
+   a b c d e f g h 
+8| r - b q k b n - 
+7| p p p p p p p - 
+6| n - - - - - - - 
+5| - - - - - - - r 
+4| - - - - - - - - 
+3| N - - - - - - - 
+2| P P P P P P - P 
+1| R - B Q K B N R 
+   ---------------
+   a b c d e f g h 
+---------------------------------

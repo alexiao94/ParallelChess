@@ -1,0 +1,19 @@
+White's turn to move
+--------------------
+8| r n b q k b n r 
+7| p p p p p p p p 
+6| - - - - - - - - 
+5| - - - - - - - - 
+4| - - - - - - - - 
+3| - - - - - - - - 
+2| P P P P P P P P 
+1| R N B Q K B N R 
+   ---------------
+   a b c d e f g h 
+--------------------
+---------------------------------
+Nodes: 21 Depth 1: 0.000284316s
+Nodes: 421 Depth 2: 0.00381627s
+Nodes: 9294 Depth 3: 0.0567486s
+Nodes: 205982 Depth 4: 1.13683s
+Nodes: 5056249 Depth 5: 27.7935s
